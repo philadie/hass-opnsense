@@ -1,5 +1,5 @@
 {
   "name": "OPNsense integration for Home Assistant",
-  "homeassistant": "2022.4.0",
-  "render_readme": true
+   "url": "https://github.com/philadie/hass-opnsense",
+   "maintainer": "Phil A <phillipadie@gmail.com>"
 }
